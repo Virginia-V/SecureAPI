@@ -25,3 +25,10 @@ C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Aut
 C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\obj\Debug\net6.0\SecureAPI.pdb
 C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\obj\Debug\net6.0\SecureAPI.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\obj\Debug\net6.0\ref\SecureAPI.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Документы\Web Development\Project on Bearer Authentication\SecureWebApp\SecureAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
